@@ -154,11 +154,8 @@
     <Content Include="css\themes\flat-green.css" />
     <Content Include="img\backdrop\micro_carbon.png" />
     <Content Include="img\backdrop\tactile_noise.png" />
-    <Content Include="img\profile\picjumbo.com_HNCK4153_resize.jpg" />
-    <Content Include="img\profile\profile-1.jpg" />
-    <Content Include="img\thumbnails\picjumbo.com_HNCK4737.jpg" />
-    <Content Include="img\thumbnails\picjumbo.com_IMG_3241.jpg" />
-    <Content Include="img\thumbnails\picjumbo.com_IMG_4566.jpg" />
+    <Content Include="img\profile\Dashboard.png" />
+    <Content Include="img\thumbnails\Dashboard.png" />
     <Content Include="js\alert.js" />
     <Content Include="js\app.js" />
     <Content Include="js\button.js" />
@@ -188,6 +185,7 @@
     <Content Include="Views\Shared\Reports.cshtml" />
     <Content Include="Views\Dashboard\Report.cshtml" />
     <Content Include="Scripts\powerbi.js.map" />
+    <None Include="Properties\PublishProfiles\luxair - Web Deploy.pubxml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -219,7 +217,9 @@
     <Content Include="lib\js\jquery.matchHeight-min.js" />
     <Content Include="lib\js\jquery.min.js" />
     <Content Include="lib\js\select2.full.min.js" />
-    <Content Include="Web.config" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="App_Start\FilterConfig.cs" />
