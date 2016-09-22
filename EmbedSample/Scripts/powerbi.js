@@ -329,7 +329,7 @@
 	     * Default options for embeddable component.
 	     */
 	    Embed.defaultOptions = {
-	        filterPaneEnabled: true
+	        filterPaneEnabled: false
 	    };
 	    return Embed;
 	}());

@@ -1,8 +1,8 @@
 .flat-blue {
-  background-color: #2D2D30;
+  background-color: #0d3046;
   /* small screen */ }
   .flat-blue a {
-    color: #363c46; }
+    color: #0d3046; }
   .flat-blue a:hover {
     color: #09486b; }
   .flat-blue .app-footer {
@@ -14,7 +14,7 @@
     .flat-blue .navbar > .container-fluid, .flat-blue .navbar.navbar-default > .container-fluid {
       background-color: #FFF; }
     .flat-blue .navbar .navbar-header .navbar-brand, .flat-blue .navbar.navbar-default .navbar-header .navbar-brand {
-      color: #2D2D30; }
+      color: #0D3046; }
     .flat-blue .navbar .navbar-header .navbar-expand-toggle, .flat-blue .navbar.navbar-default .navbar-header .navbar-expand-toggle {
       color: #353d47; }
     .flat-blue .navbar .navbar-header .navbar-right-expand-toggle, .flat-blue .navbar.navbar-default .navbar-header .navbar-right-expand-toggle {
@@ -438,11 +438,11 @@
       background-color: #FFF;
       color: #FA2A00; }
   .flat-blue .bootstrap-switch {
-    border-color: #EAEAEA; }
+    border-color: #0d3046; }
     .flat-blue .bootstrap-switch .bootstrap-switch-primary {
       background-color: #353d47; }
   .flat-blue .table .active td, .flat-blue .table .active th {
-    background-color: #EAEAEA; }
+    background-color: #0d3046; }
   .flat-blue .table .success {
     color: #006551; }
     .flat-blue .table .success td, .flat-blue .table .success th {
@@ -460,9 +460,9 @@
     .flat-blue .table .danger td, .flat-blue .table .danger th {
       background-color: #ffb8aa; }
   .flat-blue .table > tbody > tr > td, .flat-blue .table > tbody > tr > th, .flat-blue .table > tfoot > tr > td, .flat-blue .table > tfoot > tr > th {
-    border-color: #EAEAEA; }
+    border-color: #0d3046; }
   .flat-blue .table > thead > tr > th {
-    border-color: #EAEAEA; }
+    border-color: #0d3046; }
   .flat-blue .table.table-striped > tbody > tr:nth-of-type(odd) {
     background-color: #FDFDFD; }
   .flat-blue .login-box .login-form .login-header {

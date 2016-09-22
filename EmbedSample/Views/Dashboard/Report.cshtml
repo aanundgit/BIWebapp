@@ -7,5 +7,9 @@
     </ol>
 }
 <div class="side-body padding-top">
-    @Html.PowerBIReportFor(m => m.Report, new { style = "height:85vh", powerbi_access_token = Model.AccessToken })
-</div>
+    <div style="width:1320px; height: 800px; overflow: hidden">
+        @Html.PowerBIReportFor(m => m.Report, new { style = "height:800px", powerbi_access_token = Model.AccessToken })
+        </div>
+    </div>
+
+
