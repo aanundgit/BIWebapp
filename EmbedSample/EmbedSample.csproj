@@ -223,6 +223,7 @@
     <Content Include="ApplicationInsights.config">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
+    <None Include="Properties\PublishProfiles\luxair - Web Deploy %282%29.pubxml" />
     <None Include="Properties\PublishProfiles\luxair - Web Deploy.pubxml" />
     <None Include="Properties\PublishProfiles\luxoftbi - Web Deploy.pubxml" />
     <None Include="Properties\PublishProfiles\LuxoftBI.pubxml" />
